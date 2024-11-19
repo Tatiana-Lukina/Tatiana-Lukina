@@ -1,4 +1,3 @@
-# Портфолио: инженер по тестированию
 
 
 ### :man_technologist: About Me :
@@ -12,6 +11,12 @@
 
 
 ## Навыки и технологии
-``Jira``,``qase.io``,``SQL``,`` Postman``,``Fiddler``, ``Swagger``, ``Trello``, <br>
-``SoapUI``, ``Android Studio``, ``xCode``, ``Charles``, ``Git``, ``Chrome DevTools``.
+``Jira``,``Azure DevOps``,``SQL``,`` Postman``,``Fiddler``, ``Swagger``, ``MySQL`, <br>
+``HTML``, ``Android Studio``, ``xCode``, ``Charles``, ``Git``, ``Chrome DevTools``.
 
+
+
+## Контактная информация
+- Email: lykina222@bk.ru
+- LinkedIn: https://www.linkedin.com/in/tatiana-lukina-81a819312/
+- Телеграмм: @Lukina0503
