@@ -20,3 +20,6 @@
 - Email: lykina222@bk.ru
 - LinkedIn: https://www.linkedin.com/in/tatiana-lukina-81a819312/
 - Телеграмм: @Lukina0503
+
+## Сертификаты
+- [ISTQB Certified Tester Foundation Level (CTFL) v4.0 (2025)] (https://github.com/Tatiana-Lukina/Tatiana-Lukina/blob/main/Certificate_25-128291_CTFL4_0-RU_Lukina_01_01_3000.pdf)
